@@ -21,7 +21,7 @@ Esqueça a sorte. Aqui o que conta é o seu reflexo:
 
 Este projeto foi construído do zero para ser o jogo mais estável e seguro do seu Android:
 
-*   **📐 Arena Adaptativa**: O jogo detecta o tamanho da sua tela (`mGameScale`) e ajusta os controles e os personagens automaticamente. Perfeito desde telas minúsculas (**240x400**) até tablets gigantes.
+*   **📐 Arena Adaptativa**: O jogo detecta o tamanho da sua tela (`mGameScale`) e ajusta os controles e os personagens automaticamente. Perfeito para telas de tablets.
 *   **⚡ Performance Consistente**: Renderização customizada via `android.graphics.Canvas` rodando a **30 FPS estáveis**, garantindo fluidez total sem drenar sua bateria ou esquentar o processador.
 *   **🔐 Save Blindado (Anti-Hack)**: Progresso protegido por um sistema de **Segurança Híbrida**. Blocks e Ranks são criptografados (**XOR + Base64**), prevenindo edições fraudulentas.
 *   **🌐 Multiplayer Total**: Jogue online com amigos do mundo todo usando códigos de sala, ou jogue sem internet via rede local (**LAN**) ou **Tela Dividida**.
@@ -30,10 +30,11 @@ Este projeto foi construído do zero para ser o jogo mais estável e seguro do s
 ---
 
 ## 🛠️ Como Rodar
-1.  Clone este repositório.
-2.  Abra no **Android Studio** (Recomendado: Ladybug ou superior).
+1.  Instale sua release preferida
+2.  Baixe em seu dispositivo o arquivo apk
 3.  Utilize um dispositivo ou emulador com **API 23 (Android 6.0)** ou superior.
-4.  Compile o módulo `:app` e instale o APK.
+4.  Seja feliz.
+
 
 ---
 
