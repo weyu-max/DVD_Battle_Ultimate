@@ -1,6 +1,6 @@
 # 🔳 DVD Battle Ultimate - Imperial Edition 👑
 
-![Version](https://img.shields.io/badge/Version-v1.6-gold)
+![Version](https://img.shields.io/badge/Version-v1.7-gold)
 ![Platform](https://img.shields.io/badge/Platform-Android-green)
 ![API](https://img.shields.io/badge/API-23--37-blue)
 
