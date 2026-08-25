@@ -4,30 +4,30 @@
 ![Platform](https://img.shields.io/badge/Platform-Android-green)
 ![API](https://img.shields.io/badge/API-23--37-blue)
 
-**DVD Battle Ultimate** é um jogo de ação arcade frenético, ultra-leve e focado em habilidade. O que antes era apenas um ícone quicando na tela, agora é o protagonista de uma arena de combate intensa onde cada milímetro importa!
+**DVD Battle Ultimate** Visão Geral
+DVD Battle Ultimate é um arcade de sobrevivência em arena focado em Single-Player. O jogador controla um DVD rebatendo pela tela e deve usar Dash e Parry para derrotar ondas de inimigos (Raids).
+Mecânicas de Jogo
+•
+Dash: Ataque e movimentação rápida.
+•
+Parry: Defesa técnica que causa dano ao inimigo.
+•
+Buffs de Aura: Vantagens passivas baseadas no elemento selecionado.
+•
+Power Down: Risco ambiental que drena HP.
+Progressão
+•
+Blocks: Economia para melhoras permanentes.
+•
+Ranks: 9 níveis de Bronze ao Imperial.
+•
+Conquistas: Desafios que liberam itens cosméticos exclusivos.
+Estrutura Técnica
+•
+Motor: Custom Canvas Android (Java).
+•
+Performance: Limite de spawns para estabilidade em hardware legado.
 
----
-
-## 🎮 O Desafio
-Esqueça a sorte. Aqui o que conta é o seu reflexo:
-*   **Dash & Strike**: Use o impulso para destruir vírus e malwares.
-*   **Parry Master**: Defenda ataques no último segundo para refletir o dano.
-*   **Boss Battles**: Enfrente os vilões do sistema, como o temido *Task Manager* e o *Kernel Error*.
-*   **Ranked Mode**: Suba na hierarquia do sistema com o sistema de **% de UPLOAD** e ganhe recompensas exclusivas.
-
----
-
-## 🚀 Diferenciais Técnicos
-
-Este projeto foi construído do zero para ser o jogo mais estável e seguro do seu Android:
-
-*   **📐 Arena Adaptativa**: O jogo detecta o tamanho da sua tela (`mGameScale`) e ajusta os controles e os personagens automaticamente. Perfeito para telas de tablets.
-*   **⚡ Performance Consistente**: Renderização customizada via `android.graphics.Canvas` rodando a **30 FPS estáveis**, garantindo fluidez total sem drenar sua bateria ou esquentar o processador.
-*   **🔐 Save Blindado (Anti-Hack)**: Progresso protegido por um sistema de **Segurança Híbrida**. Blocks e Ranks são criptografados (**XOR + Base64**), prevenindo edições fraudulentas.
-*   **🌐 Multiplayer Total**: Jogue online com amigos do mundo todo usando códigos de sala, ou jogue sem internet via rede local (**LAN**) ou **Tela Dividida**.
-*   **🎨 Identidade Imperial**: Interface moderna inspirada em grandes sucessos mobile, mas mantendo o estilo **Retro Square** dos botões clássicos.
-
----
 
 ## 🛠️ Como Rodar
 1.  Instale sua release preferida
